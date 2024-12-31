@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Chick Coin - Innovative Cryptocurrency</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #f1c40f;
+            color: #000000;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin: 0;
+        }
+        header p {
+            font-size: 1.2rem;
+            margin: 10px 0 0;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .highlight {
+            color: #f1c40f;
+            font-weight: bold;
+        }
+        footer {
+            background-color: #000000;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px 20px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .coin-image {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>The Chick Coin</h1>
+        <p><span class="highlight">Ignite Your Inner Dreamer</span></p>
+    </header>
+
+    <section>
+        <h2>About The Chick Coin</h2>
+        <img src="/mnt/data/f1917c1f-adba-479e-bc9d-410c7153cb67.webp" alt="Chick Coin Logo" class="coin-image">
+        <p>The Chick Coin is an <span class="highlight">innovative cryptocurrency</span> designed for dreamers. Created by two passionate engineers, it represents the <span class="highlight">fire within</span> those who aspire to break free and achieve greatness.</p>
+
+        <h2>Why Choose Chick Coin?</h2>
+        <ul style="list-style: none; padding: 0;">
+            <li>&#128293; A symbol of resilience and ambition.</li>
+            <li>&#9881; Developed with cutting-edge technology.</li>
+            <li>&#128161; Empowering small dreamers with big visions.</li>
+        </ul>
+
+        <h2>Our Vision</h2>
+        <p>We believe in the power of small beginnings and the extraordinary potential within each individual. Chick Coin is more than just a currency &mdash; it’s a movement to inspire the dreamers of tomorrow.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 The Chick Coin. All rights reserved.</p>
+    </footer>
+</body>
+</html>
